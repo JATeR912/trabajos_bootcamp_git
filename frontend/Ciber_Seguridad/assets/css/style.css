@@ -1,0 +1,29 @@
+#imagenIndex {
+  background-image: url('celeste.jpg');
+  background-size: cover;
+}
+#amenazas {
+  max-width: 40vw;
+}
+.cerrar {
+      position: absolute;
+      right: 7px;
+      font-size: 30px;
+      color: #999;
+      cursor: pointer;
+    }
+.cerrar:hover {
+      color: #f44336;
+    }
+
+#carousel_consejos {
+  max-width: 60vw;
+  margin: auto;
+}
+
+
+
+#consejos img {
+  width: 30vw;
+  height: auto;
+}
