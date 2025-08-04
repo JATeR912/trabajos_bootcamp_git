@@ -28,3 +28,5 @@ Módulo 4: Programación avanzada en Python
     /python_avanzado
         AE2_ABP-Ejercicio individual
             /tarjeta_credito
+        AE4_ABP-Ejercicio individual
+            /tamagotchi
